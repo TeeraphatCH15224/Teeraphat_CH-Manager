@@ -1,0 +1,34 @@
+{
+  "name": "teeraphat_ch-manager",
+  "version": "0.0.1",
+  "description": "Manager Is Teeraphat_CH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeeraphatCH15224/Teeraphat_CH-Manager-1343.git"
+  },
+  "author": "Teeraphat_CH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeeraphatCH15224/Teeraphat_CH-Manager-1343/issues"
+  },
+  "homepage": "https://github.com/TeeraphatCH15224/Teeraphat_CH-Manager-1343#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "axios": "^0.27.2",
+    "better-erela.js-apple": "^1.0.5",
+    "better-erela.js-spotify": "^1.3.11",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.3.0",
+    "erela.js": "^2.3.3",
+    "erela.js-apple": "^1.2.6",
+    "erela.js-deezer": "^1.0.7",
+    "erela.js-facebook": "^1.0.4",
+    "nodemon": "^2.0.19",
+    "superweir-jooxapi": "github:TeeraphatCH15224/SuperWeir-Joox"
+  }
+}
