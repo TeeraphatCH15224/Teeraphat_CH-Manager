@@ -3,6 +3,7 @@ const { EmbedBuilder } = require('discord.js');
 module.exports = {
     name: "ping",
     description: "สถานะปิงของบอท",
+    category: "Infomation",
     botPermission: ["SEND_MESSAGES", "EMBED_LINKS", "CONNECT", "SPEAK"],
     ownerOnly: false,
 

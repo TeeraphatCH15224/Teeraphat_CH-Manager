@@ -4,6 +4,7 @@ const { OWNER_ID } = require('../../settings/config.js');
 module.exports = {
     name: "stopbot",
     description: "ปิดบอทของคุณ",
+    category: "Owner",
     botPermission: ["SEND_MESSAGES", "EMBED_LINKS", "CONNECT", "SPEAK"],
     ownerOnly: true,
 

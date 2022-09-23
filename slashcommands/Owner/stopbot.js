@@ -3,6 +3,7 @@ const { EmbedBuilder, ApplicationCommandOptionType } = require('discord.js');
 module.exports = {
     name: "stopbot",
     description: "ปิดบอทของคุณ",
+    category: "Owner",
     botPermission: ["SEND_MESSAGES", "EMBED_LINKS", "CONNECT", "SPEAK"],
     ownerOnly: true,
 
