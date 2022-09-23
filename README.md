@@ -25,7 +25,6 @@
 
 ## 💯 ระบบที่จะมาเร็วๆนี้
 
-- [x] Help command
 - [ ] Music Lavalink
 - [ ] ระบบคนเข้า-ออก คนบูสต์ คนสมัคร Supporter คนโดเนท
 - [ ] แจ้งลงคลิป Youtube Facebook Tiktok และอื่นๆ
@@ -43,6 +42,15 @@
 - [ ] Website Teeraphat_CH
 - [ ] 𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐨𝐫 Commands
 ---
+
+---
+
+## ✅ ระบบที่ทำสำเร็จแล้ว
+
+- [x] Help command
+
+---
+
 ```
  Copyright © 2022 By Emerald Empire Studio
  ลิขสิทธิ์ © 2022 ของ Emerald Empire Studio
