@@ -10,7 +10,7 @@
 | คนช่วยทำ| Discord | 
 | ------- | ----- |
 | Geforce | Geforce#9501 |
-| PHASORシ| PHASORシ#3108 , PHASORシ#1371 |
+| PHASORシ| PHASORシ#3108 |
 
 
 ---
