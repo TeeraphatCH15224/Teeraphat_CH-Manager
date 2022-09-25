@@ -6,6 +6,6 @@ module.exports = {
     OWNER_ID: "", // ไอดีเจ้าของ
     YOUTUBE_KRY: "", //Youtube Api Key
     YOUTUBE_USER: "",
-    LOG_WEID: '1020611886695321722', //คนเข้า
-    LOG_EXID: '1020611886695321722' //คนออก
+    LOG_WEID: '', //คนเข้า
+    LOG_EXID: '' //คนออก
 }
