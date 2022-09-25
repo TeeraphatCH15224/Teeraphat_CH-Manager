@@ -1,6 +1,6 @@
 const { ActivityType } = require('discord.js');
 const axios = require('axios');
-
+const { YTNAME } = require('../../settings/config.js');
 
 
 module.exports = async (client) => {
@@ -13,7 +13,7 @@ module.exports = async (client) => {
     console.log(`[EVENTS - READY] ${client.user.tag} Login Successfully`)
     client.user.setStatus('dnd');
     setInterval(() => {
-        client.user.setActivity(`Teeraphat_CH ${Data.statistics.subscriberCount} SUB`, { type: ActivityType.Watching });
+        client.user.setActivity(`${YTNAME} ${Data.statistics.subscriberCount} SUB`, { type: ActivityType.Watching });
     }, 30000)
 
 };
