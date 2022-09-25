@@ -29,7 +29,6 @@
     "erela.js-deezer": "^1.0.7",
     "erela.js-facebook": "^1.0.4",
     "nodemon": "^2.0.20",
-    "rss-parser": "^3.12.0",
-    "superweir-jooxapi": "github:TeeraphatCH15224/SuperWeir-Joox"
+    "rss-parser": "^3.12.0"
   }
 }
