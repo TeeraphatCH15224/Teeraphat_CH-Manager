@@ -1,23 +1,23 @@
 const { OWNER_ID } = require('../../settings/config.js');
 
-module.exports = async(client, interaction) => {
+module.exports = async (client, interaction) => {
     if (interaction.isCommand()) {
         if (!client.slash.has(interaction.commandName)) return;
         if (!interaction.guild) return;
         const command = client.slash.get(interaction.commandName);
-        if(!command) return;
+        if (!command) return;
 
         try {
             if (command.userPerms) {
                 if (!interaction.member.permissions.has(command.userPerms)) {
                     return interaction.editReply({ content: `You don't have perm ${command.userPerms} to use this command!` });
+                }
             }
-        }
             if (command.botPerms) {
                 if (!interaction.guild.me.permissions.has(command.botPerms)) {
                     return interaction.editReply({ content: `I don't have perm ${command.botPerms} to use this command!` });
+                }
             }
-        }
 
             if (command.ownerOnly) {
                 if (interaction.user.id !== OWNER_ID) {

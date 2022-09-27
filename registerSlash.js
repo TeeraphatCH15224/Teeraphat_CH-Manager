@@ -19,7 +19,7 @@ const rest = new REST({ version: "10" }).setToken(TOKEN);
         await rest.put(
             // if you want to use global slashcommand use here => "Routes.applicationCommands(CLIENT_ID)"
             Routes.applicationGuildCommands(CLIENT_ID, GUILD_ID),
-           // Routes.applicationCommands(CLIENT_ID),
+            // Routes.applicationCommands(CLIENT_ID),
             { body: commands },
         );
         console.log("[INFOMATION] Successfully refreshed application (/) commands.");

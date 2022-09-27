@@ -15,7 +15,7 @@ module.exports = {
             .setColor("#000080")
             .setAuthor({ name: `คำสั่งสำหรับใช้งานบอททั้งหมด`, iconURL: client.user.displayAvatarURL({ dynamic: true }) })
         const categories = readdirSync("./slashcommands/")
-      embed.setFooter({ text: 'ขอบคุณผู้สนับสนุนโดย LSP-Hosting', iconURL: 'https://cdn.discordapp.com/attachments/961883426112286731/1013442567955812352/LSPJiBi-T.png' });
+        embed.setFooter({ text: 'ขอบคุณผู้สนับสนุนโดย LSP-Hosting', iconURL: 'https://cdn.discordapp.com/attachments/961883426112286731/1013442567955812352/LSPJiBi-T.png' });
 
         categories.forEach(category => {
             const dir = client.slash.filter(c => c.category === category)
@@ -26,6 +26,6 @@ module.exports = {
                 console.log(e)
             }
         })
-        return interaction.editReply({ embeds: [embed]})
+        return interaction.editReply({ embeds: [embed] })
     }
 }

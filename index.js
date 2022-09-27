@@ -22,7 +22,7 @@ const client = new Client({
         Partials.User,
         Partials.GuildMember,
         Partials.Reaction
-      ],
+    ],
 });
 
 ["aliases", "slash", "commands"].forEach(x => client[x] = new Collection());
