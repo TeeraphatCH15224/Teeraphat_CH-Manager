@@ -1,12 +1,12 @@
 module.exports = {
-    TOKEN : "",
+    TOKEN : "", // token bot 
     PREFIX: "",
-    CLIENT_ID: "",
-    GUILD_ID: "", // ไอดีเจ้าของ
+    CLIENT_ID: "", // ไอดีบอท
+    GUILD_ID: "", // ไอดีดิส
     OWNER_ID: "", // ไอดีเจ้าของ
-    YOUTUBE_KRY: "", //Youtube Api Key
+    YOUTUBE_KRY: "", // Youtube Api Key
     YOUTUBE_USER: "",
-    YTNAME: "", //ชื่อช่อง
-    LOG_WEID: '', //คนเข้า
-    LOG_EXID: '' //คนออก
+    YTNAME: "", // ชื่อช่อง
+    LOG_WEID: '', // ห้องคนเข้า
+    LOG_EXID: '' // ห้องคนออก
 }
