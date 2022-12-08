@@ -12,6 +12,7 @@
 | Geforce | Geforce#9501 |
 | PHASORシ| PHASORシ#1371|
 | Jirayu | Jirayu#3108 |
+| AMPRO  | AMPRO#3117 | 
 
 
 ---
