@@ -49,7 +49,7 @@
 
 ## ✅ ระบบที่ทำสำเร็จแล้ว
 
-- [x] Help command
+- [✅] Help command
 
 ---
 
