@@ -1,6 +1,6 @@
 module.exports = {
     TOKEN : "", // token bot 
-    PREFIX: "", Prefix ของบอท
+    PREFIX: "", // Prefix ของบอท
     CLIENT_ID: "", // ไอดีบอท
     GUILD_ID: "", // ไอดีดิส
     OWNER_ID: "", // ไอดีเจ้าของ
