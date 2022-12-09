@@ -21,8 +21,7 @@
 
 | Company | About |  Owner  |
 | ------- | ----- | ------- |
-| [**Maki-Hosting**](https://maki-site.tk/) | บริการเช่าเซิร์ฟเวอร์และพร้อมใช้งานในเวลาไม่กี่นาที เริ่มต้น Free Package เริ่มต้นที่ 0 บาท| [น้อนกอล์ฟ]
-(https://maki-site.tk/)
+| [**Maki-Hosting**](https://maki-site.tk/) | บริการเช่าเซิร์ฟเวอร์และพร้อมใช้งานในเวลาไม่กี่นาที เริ่มต้น Free Package เริ่มต้นที่ 0 บาท| [น้อนกอล์ฟ](https://maki-site.tk/)
 
 ---
 
