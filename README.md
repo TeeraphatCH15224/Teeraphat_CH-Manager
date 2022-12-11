@@ -9,8 +9,7 @@
 
 | คนช่วยทำ| Discord | 
 | ------- | ----- |
-| Geforce | Geforce#9501 |
-| PHASORシ| PHASORシ#3108 |
+| AMPRO  | AMPRO#3117 | 
 
 
 ---
@@ -19,7 +18,7 @@
 
 | Company | About |  Owner  |
 | ------- | ----- | ------- |
-| [**LSP-Hosting**](https://lunaserverpro.ml) | บริการเช่าเซิร์ฟเวอร์และพร้อมใช้งานในเวลาไม่กี่นาที เริ่มต้น Free Package เริ่มต้นที่ 0 บาท| [ผมชอบกินกาแฟ เลี้ยงหน่อยสิ](https://lunaserverpro.ml/) |
+| [**Maki-Hosting**](https://maki-site.tk/) | บริการเช่าเซิร์ฟเวอร์และพร้อมใช้งานในเวลาไม่กี่นาที เริ่มต้น Free Package เริ่มต้นที่ 0 บาท| [น้อนกอล์ฟ](https://maki-site.tk/)
 
 ---
 
@@ -47,7 +46,7 @@
 
 ## ✅ ระบบที่ทำสำเร็จแล้ว
 
-- [x] Help command
+- [✅] Help command
 
 ---
 
